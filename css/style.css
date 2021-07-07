@@ -1,0 +1,77 @@
+#menu ul li a:hover{
+	background-color: white;
+	color:black;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+@media only screen and (max-width: 768px){
+	[class*="col-"]{
+		width: 100%;
+	}
+}
+
+/*--------------Navbar Section---------------*/
+
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar
+{
+	
+	background: #042331;
+	padding: 0 !important;
+	height: 75px;
+}
+.navbar-brand img
+{
+	height: 70px;
+	padding-left: 20px;
+}
+.navbar-nav li
+{
+	padding: 0 5px;
+}
+.navbar-nav li a
+{
+	color: #fff !important;
+	font-weight: 500;
+	float: right;
+	text-align: left;
+}
+
+.fa-bars
+{
+	color: #fff;
+	font-size: 30px !important;
+}
+.navbar-toggler
+{
+	outline: none !important;
+}
+.fa
+{
+	color: white;
+}
+
+/*--------------Footer Section---------------*/
+
+#footer
+{
+	background:#042331;
+	color: #fff;
+}
+
+hr
+{
+	background-color: #fff;
+}
+.copyright
+{
+	margin-bottom: 0;
+	padding-bottom: 20px;
+	text-align: center;
+}
