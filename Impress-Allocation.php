@@ -94,6 +94,14 @@
                 <td>2021.06.30</td>
                 <td><a href="https://docs.google.com/spreadsheets/d/1KiR1SepYWDYjrGDmstVU0Embs-L8ek12JqH-tBZokRc/edit?usp=sharing" target="_blank">Update Format</a></td>
             </tr>
+            </tr>
+                <td>08</td>
+                <td>2021.07.01</td>
+                <td>2021 - June</td>
+                <td>Cash Cross Details</td>
+                <td>2021.07.15</td>
+                <td><a href="https://docs.google.com/spreadsheets/d/1smVEwITX57SsEjFk_VCEwclGcM4n_HnXTAb2tsc8zro/edit?usp=sharing" target="_blank">Update Format</a></td>
+            </tr>
         </tbody>
         <tfoot>
             <tr>
