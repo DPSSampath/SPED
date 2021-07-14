@@ -41,7 +41,7 @@
         <tbody>
             <tr>
                 <td>01</td>
-                <td>TBD</td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -49,7 +49,7 @@
             </tr>
             <tr>
                 <td>02</td>
-                <td>TBD</td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
