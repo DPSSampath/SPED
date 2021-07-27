@@ -32,7 +32,7 @@
 	 						<img src="img/Circular.png" alt="" class="img-fluid rounded-circle w-50 mb-3">
 	 						<h3>Asset Circulars</h3>
 	 						<!--<h5>Download all Circulars related to the Asset Management</h5>-->
-	 						<a href="Coming-Soon.php">
+	 						<a href="Asset-Circular.php">
 	 							<p>Click here to Download all Circulars related to the Asset Management.</p>
 	 						</a>
 	 						<div class="d-flex flex-row justify-content-center">
@@ -63,7 +63,7 @@
 	 						<img src="img/Document.png" alt="" class="img-fluid rounded-circle w-50 mb-3">
 	 						<h3>Letters of Instruction</h3>
 	 						<!--<h5>Download all Letters of Instruction issued from Department</h5>-->
-	 						<a href="Coming-Soon.php">
+	 						<a href="Instruction-Letter.php">
 	 						<p>Click here to Download all Letters of Instruction issued from Department.</p>
 	 						</a>
 	 						<div class="d-flex flex-row justify-content-center">
