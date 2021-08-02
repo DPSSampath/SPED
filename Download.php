@@ -93,7 +93,7 @@
 	 						<img src="img/Format.png" alt="" class="img-fluid rounded-circle w-50 mb-3">
 	 						<h3>Asset Formats</h3>
 	 						<!--<h5>Download all Asset Formats related to the Asset Management</h5>-->
-	 						<a href="Coming-Soon.php">
+	 						<a href="Asset-Format.php">
 	 						<p>Click here to Download all Asset Formats related to the Asset Management.</p>
 	 						</a>
 	 						<div class="d-flex flex-row justify-content-center">

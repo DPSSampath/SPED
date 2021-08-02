@@ -96,16 +96,16 @@
                 <td>2021.07.10</td>
                 <td><a href="https://forms.gle/xnmBsH6aHgw8Kr8u8" target="_blank">Submit Form</a></td>
             </tr>
-            <!--<tr>
+            <tr>
                 <td>07</td>
                 <td>2021.08.01</td>
                 <td>2021</td>
                 <td>July</td>
                 <td>Account for Non-financial Asset Movement</td>
                 <td>2021.08.10</td>
-                <td><a href=" " target="_blank">Submit Form</a></td>
+                <td><a href="https://forms.gle/13Tan8zHXuAtU9Yt7" target="_blank">Submit Form</a></td>
             </tr>
-            <tr>
+            <!--<tr>
                 <td>08</td>
                 <td>2021.09.01</td>
                 <td>2021</td>

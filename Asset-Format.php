@@ -36,12 +36,20 @@
                 <th>Description</th>
                 <th>Start date</th>
                 <th>End date</th>
-                <th>Update</th>
+                <th>Action</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>01</td>
+                <td>2020.09.23</td>
+                <td>Fixed Asset Ledger format - 01-2020 Cir</td>
+                <td>Null</td>
+                <td>Null</td>
+                <td><a href="/xlsx/Fixed Asset Ledger format.xlsx" download="Fixed Asset Ledger format.xlsx">Download Format</a></td>
+            </tr>
+            <tr>
+                <td>02</td>
                 <td>2020.12.04</td>
                 <td>Non-Current asset movement report - 2020</td>
                 <td>2021.01.01</td>
@@ -49,7 +57,7 @@
                 <td><a href="https://docs.google.com/spreadsheets/d/1YYtdy6vKLkPcoUndvj8F6Tj9BSiCdGeZdHjHd-BZ1_s/edit?usp=sharing" target = "_blank">Update Format</a></td>
             </tr>
             <tr>
-                <td>02</td>
+                <td>03</td>
                 <td>2020.12.04</td>
                 <td>Depreciation (Format - 01) - Account for Property, Plant and Equipment - 2020</td>
                 <td>2021.01.01</td>
@@ -57,7 +65,7 @@
                 <td><a href="https://docs.google.com/spreadsheets/d/1UJZPjYwp_VmGAYIhFNLYfFIiw7d8sx9-BXSlytaZQBY/edit?usp=sharing" target = "_blank">Update Format</a></td>
             </tr>
             <tr>
-                <td>03</td>
+                <td>04</td>
                 <td>2020.12.04</td>
                 <td>Depreciation (Format - 02) - Account for Property, Plant and Equipment - 2020</td>
                 <td>2021.01.01</td>
@@ -65,14 +73,42 @@
                 <td><a href="https://docs.google.com/spreadsheets/d/18_NfVnpS_7h3txyGWWBvBlH1ADJjKT1gzh5oJLqm40Q/edit?usp=sharing" target = "_blank">Update Format</a></td>
             </tr>
             <tr>
-                <td>04</td>
+                <td>05</td>
                 <td>2020.12.04</td>
                 <td>Depreciation (Format - 03) - Account for Property, Plant and Equipment - 2020</td>
                 <td>2021.01.01</td>
                 <td>2021.01.15</td>
                 <td><a href="https://docs.google.com/spreadsheets/d/1huWrReXHjP3ZkSEupz0rA-cNdNoGp_k99NtNAqXFH2A/edit?usp=sharing" target = "_blank">Update Format</a></td>
             </tr>
-
+            <tr>
+                <td>06</td>
+                <td>2021.05.10</td>
+                <td>Branch Assets Ledger - 02-2021 Cir</td>
+                <td>Null</td>
+                <td>Null</td>
+                <td><a href="/xlsx/Annexture (II) - Fixed Assets Purchase Registry.xlsx" download="Fixed Assets Purchase Registry.xlsx">Download Format</a></td>
+            </tr>
+                <td>07</td>
+                <td>2021.05.10</td>
+                <td>Fixed Assets Issuing Registry - 02-2021 Cir</td>
+                <td>Null</td>
+                <td>Null</td>
+                <td><a href="/xlsx/Annexture (III) - Fixed Assets Issuing Registry.xlsx" download="Fixed Assets Issuing Registry.xlsx">Download Format</a></td>
+            </tr>
+                <td>08</td>
+                <td>2021.05.10</td>
+                <td>Defective Fixed Assets Registry - 02-2021 Cir</td>
+                <td>Null</td>
+                <td>Null</td>
+                <td><a href="/xlsx/Annexture (IV) - Defective Fixed Assets Registry.xlsx" download="Defective Fixed Assets Registry.xlsx">Download Format</a></td>
+            </tr>
+                <td>09</td>
+                <td>2021.05.10</td>
+                <td>Defective Items Registry (Non-Inventory) - 02-2021 Cir</td>
+                <td>Null</td>
+                <td>Null</td>
+                <td><a href="/xlsx/Annexture (V) - Defective Items Registry (Non-Inventory).xlsx" download="Defective Items Registry (Non-Inventory).xlsx">Download Format</a></td>
+            </tr>
         </tbody>
         <tfoot>
             <tr>
@@ -81,7 +117,7 @@
                 <th>Description</th>
                 <th>Format Start date</th>
                 <th>Format End date</th>
-                <th>Update</th>
+                <th>Action</th>
             </tr>
         </tfoot>
     </table>
